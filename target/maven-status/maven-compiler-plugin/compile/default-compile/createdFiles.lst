@@ -1,0 +1,4 @@
+com/javaperf/gcdemo/service/MemoryService.class
+com/javaperf/gcdemo/GcTestApplication.class
+com/javaperf/gcdemo/config/InfluxMetricsConfig.class
+com/javaperf/gcdemo/controller/MemoryController.class
